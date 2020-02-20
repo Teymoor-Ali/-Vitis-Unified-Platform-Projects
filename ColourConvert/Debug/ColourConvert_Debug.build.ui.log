@@ -1,0 +1,10 @@
+2020-02-20T05:16:18.856390700255-05:16:18 **** Incremental Build of configuration Debug for project ColourConvert ****
+000-make all 
+000-'Building file: ../src/xf_cvt_color_accel.cpp'
+000-'Invoking: ARM v8 g++ compiler'
+000-aarch64-none-elf-g++ -Wall -O0 -g3 -I"C:\Users\teymo\Documents\GitHub\Vitis_Libraries\vision\L1\include" -I"C:\Users\teymo\Downloads\opencv\sources\include" -I"C:\Users\teymo\Downloads\opencv\build\include\opencv2" -I"C:\Users\teymo\Downloads\opencv\build\include" -c -fmessage-length=0 -MT"src/xf_cvt_color_accel.o" -hls-target 1 -IC:/Users/teymo/workspace/zcu102/export/zcu102/sw/zcu102/standalone_domain/bspinclude/include -MMD -MP -MF"src/xf_cvt_color_accel.d" -MT"src/xf_cvt_color_accel.o" -o "src/xf_cvt_color_accel.o" "../src/xf_cvt_color_accel.cpp"
+000-aarch64-none-elf-g++: error: 1: No such file or directory
+000/ColourConvert0-1-1make: *** [src/subdir.mk:26: src/xf_cvt_color_accel.o] Error 12-make: *** [src/subdir.mk:26: src/xf_cvt_color_accel.o] Error 1
+00255-
+05:16:19 Build Finished (took 228ms)
+

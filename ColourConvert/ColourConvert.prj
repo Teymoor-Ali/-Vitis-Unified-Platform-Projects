@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="ColourConvert" location="C:/Users/teymo/Documents/GitHub/-Vitis-Unified-Platform-Projects/ColourConvert" platform="C:/Users/teymo/workspace/zcu102/export/zcu102/zcu102.xpfm" platformUID="xilinx:zcu102:design_1:0.0(custom)" systemProject="ColourConvert_system" sysConfig="zcu102" runtime="C/C++" cpu="standalone_domain" cpuInstance="psu_cortexa53_0" os="standalone" language="CPP" mssSignature="365d879903f93d3c9b28bb92bfe640b2">
+  <configuration name="Debug" id="xilinx.gnu.arm.a53.exe.debug.1029163457">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.a53.exe.release.464919917" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>
