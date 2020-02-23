@@ -23,10 +23,6 @@ Xilinx Vitis Core Development Kit - 2019.2
 
 (Under Construction)
 
-## Versioning
-
-(Under Construction)
-
 ## Authors
 
 * **[Teymoor-Ali](https://github.com/Teymoor-Ali)** 
